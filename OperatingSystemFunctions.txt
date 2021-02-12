@@ -1,0 +1,4 @@
+An operating system is necesary for a system to power on.
+When the power button is pressed, the computer recieves a signal to begin the process of starting up.
+During this process, the operating system runs a series of checks to make sure that key components of the computer are there, both hardware and software.
+If these tests are successful, the computer begins running the steps to boot the system.
