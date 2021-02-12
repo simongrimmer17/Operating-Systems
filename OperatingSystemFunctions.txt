@@ -2,3 +2,7 @@ An operating system is necesary for a system to power on.
 When the power button is pressed, the computer recieves a signal to begin the process of starting up.
 During this process, the operating system runs a series of checks to make sure that key components of the computer are there, both hardware and software.
 If these tests are successful, the computer begins running the steps to boot the system.
+
+An operating system must also provide the user interface.
+This can be done by providing a graphical interface with clickable buttons for hte user to interact with, as is the style for most operating systems like Windows and IOS.
+This can also be done by providing the user a text-based interface, where commands are entered into a line prompt, and the OS follows instructions based on thse commands.
